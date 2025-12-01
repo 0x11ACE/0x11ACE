@@ -1,5 +1,10 @@
-# 💫 About Me:
-Mission Profile: Red Team Focus<br>Designation: Red Team Operative / Aspiring Penetration Tester.<br>Current Objective: Actively developing and refining skills in Networking Fundamentals and Penetration Testing methodologies.<br>Specializing In: Understanding attacker mindset, exploiting vulnerabilities, and crafting stealthy bypasses.<br>Asking Me About: Linux security, virtualization for labs, and practical exploitation techniques.
+# ⚡ Tyxiros
+### 🕵️‍♂️ Mission Profile: Red Team Focus
+
+* **Designation:** Red Team Operative / Aspiring Penetration Tester.
+* **Current Objective:** Actively developing and refining skills in **Networking Fundamentals** and **Penetration Testing methodologies**.
+* **Specializing In:** Understanding attacker mindset, exploiting vulnerabilities, and crafting stealthy bypasses.
+* **Asking Me About:** Linux security, virtualization for labs, and practical exploitation techniques.
 
 
 ## 🌐 Socials:
