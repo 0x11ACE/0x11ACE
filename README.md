@@ -33,17 +33,3 @@ I am currently focusing on building a public presence and showcasing my practica
 * **Discord:** 
 
 ---
-
-### 📈 Operational Metrics
-
-#### GitHub Activity Stats
-
-[![Tyxiros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyxiros&show_icons=true&theme=dark&line_height=27&hide_border=true)](https://github.com/Tyxiros)
-
-#### Language Proficiency
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyxiros&layout=compact&theme=dark&hide_border=true)](https://github.com/Tyxiros)
-
-#### Hacking Trophy
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tyxiros&theme=dracula&no-frame=true&row=1&column=4)](https://github.com/Tyxiros)
