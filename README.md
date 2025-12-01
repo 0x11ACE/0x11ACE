@@ -1,5 +1,5 @@
 # ⚡ Tyxiros
-### 🕵️‍♂️ Mission Profile: Red Team Focus
+### 🕵️‍♂️ Mission: Red Team
 
 * **Designation:** Red Team Operative / Aspiring Penetration Tester.
 * **Current Objective:** Actively developing and refining skills in **Networking Fundamentals** and **Penetration Testing methodologies**.
