@@ -29,14 +29,12 @@
 
 I am currently focusing on building a public presence and showcasing my practical labs and exercises.
 
-* **Portfolio/Labs:** [Insert Your Portfolio Link Here] (e.g., a place where you document your CTFs, write-ups, or project code)
-* **Discord:** Feel free to connect for discussions on security and hacking!
+* **Portfolio/Labs:** 
+* **Discord:** 
 
 ---
 
-### 📈 Operational Metrics (Your Hacking Journey Stats)
-
-These stats cards will visually represent your activity. You will need to replace `Tyxiros` in the URLs below with your actual GitHub username if it's different.
+### 📈 Operational Metrics
 
 #### GitHub Activity Stats
 
@@ -46,6 +44,6 @@ These stats cards will visually represent your activity. You will need to replac
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyxiros&layout=compact&theme=dark&hide_border=true)](https://github.com/Tyxiros)
 
-#### Hacking Trophy Showcase
+#### Hacking Trophy
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tyxiros&theme=dracula&no-frame=true&row=1&column=4)](https://github.com/Tyxiros)
