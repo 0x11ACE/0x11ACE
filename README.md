@@ -21,6 +21,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354A.svg?style=plastic&logo=python&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0x11ACE&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0x11ACE&theme=transparent&hide_border=false)<br/>
