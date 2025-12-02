@@ -16,7 +16,7 @@
 | **Scripting** | Python, Bash |
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ACE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](ACE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ACE) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](ACE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](ACE) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](ACE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](ACE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](ACE) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](ACE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](ACE) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354A.svg?style=plastic&logo=python&logoColor=white)
